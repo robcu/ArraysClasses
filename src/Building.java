@@ -1,6 +1,6 @@
 /**
  * Created by robculclasure on 1/30/17.
- * Class Building represents a constructed space that may be leased, purchased, insured, etc by clients.
+ * Class Building represents a building that may be leased, purchased, insured, etc by clients.
  */
 public class Building {
     public String name;

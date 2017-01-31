@@ -1,6 +1,6 @@
 /**
  * Created by robculclasure on 1/30/17.
- * Class Beverage represents drink items from a given restaurant menu.
+ * Class Beverage represents beverage items from a given restaurant menu.
  */
 public class Beverage {
 
